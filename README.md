@@ -1,4 +1,4 @@
-# ¡Hola! mi nombre es Esau Iglesias. :technologist:
+![image](https://github.com/esauiglesiasolvera/esauiglesiasolvera/assets/121328765/712118e6-3ffc-40af-9bb6-8b5b5eb0180e)# ¡Hola! mi nombre es Esau Iglesias. :technologist:
 
 :hash:Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. :desktop_computer: :writing_hand:
 </br>
@@ -17,7 +17,7 @@
 
 ## Tecnologías:
 
-| [<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
+| [<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTTML" width="24">] | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="38">] | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="SQL" width="24">]  |  [<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="Java" width="24">] width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
 
 ## Contacto:
