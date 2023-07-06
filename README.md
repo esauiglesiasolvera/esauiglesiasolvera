@@ -1,8 +1,8 @@
 # ¡Hola! mi nombre es Esau Iglesias. 
 
-Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. :desktop_computer: 
+Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. :desktop_computer: :writing_hand:
 </br>
-Estudié la licenciatura en Enseñanza de Inglés. :us:
+Estudié la licenciatura en Enseñanza de Inglés. :speaking_head: :statue_of_liberty:
 </br>
 Estoy cursando la Escuela de código de PILARES para especializarme como desarrollador JAVA. 
 </br>
@@ -13,7 +13,7 @@ Estoy cursando la Escuela de código de PILARES para especializarme como desarro
 
 ## Contacto:
 
-iglesiasolveraangelesau@gmail.com 
+:incoming_envelope: iglesiasolveraangelesau@gmail.com 
 
 <!--
 **esauiglesiasolvera/esauiglesiasolvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
