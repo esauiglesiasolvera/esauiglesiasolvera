@@ -8,10 +8,7 @@ Estoy cursando la Escuela de código de PILARES para especializarme como desarro
 </br>
 
 ## Tecnologías:
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-
+https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png
 
 ## Encuentrame en:
 
