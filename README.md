@@ -8,7 +8,8 @@
 </br>
 :hash:Estoy cursando la Escuela de código de PILARES para especializarme como desarrollador JAVA. :coffee:
 </br>
-:hash:Estoy en busca de un trabajo como becario :kite:
+</br>
+:hash:Estoy en busca de un trabajo como becario :kite: :pencil2:
 
 
 ## Tecnologías:
