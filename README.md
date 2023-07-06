@@ -9,6 +9,8 @@ Estoy cursando la Escuela de código de PILARES para especializarme como desarro
 
 ## Tecnologías:
 
+![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png))
+
 ## Contacto:
 
 iglesiasolveraangelesau@gmail.com 
