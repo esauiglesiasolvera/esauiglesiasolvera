@@ -8,9 +8,8 @@ Estoy cursando la Escuela de código de PILARES para especializarme como desarro
 </br>
 
 ## Tecnologías:
-https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png
 
-## Encuentrame en:
+## Contacto:
 
 iglesiasolveraangelesau@gmail.com 
 
