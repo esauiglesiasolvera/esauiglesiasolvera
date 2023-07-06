@@ -1,8 +1,8 @@
 # ¡Hola! mi nombre es Esau Iglesias. 
 
-Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. 
+Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. :desktop_computer: 
 </br>
-Estudié la licenciatura en Enseñanza de Inglés. 
+Estudié la licenciatura en Enseñanza de Inglés. :us:
 </br>
 Estoy cursando la Escuela de código de PILARES para especializarme como desarrollador JAVA. 
 </br>
