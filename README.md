@@ -1,15 +1,19 @@
 # ¡Hola! mi nombre es Esau Iglesias. 
 
-Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. :desktop_computer: :writing_hand:
+:hash:Soy estudiante de la ingenieria en Desarrollo de Software de la Universidad Abierta y a Distancia de México. :desktop_computer: :writing_hand:
 </br>
-Estudié la licenciatura en Enseñanza de Inglés. :speaking_head: :statue_of_liberty:
 </br>
-Estoy cursando la Escuela de código de PILARES para especializarme como desarrollador JAVA. 
+:hash:Estudié la licenciatura en Enseñanza de Inglés. :speaking_head: :statue_of_liberty:
 </br>
+</br>
+:hash:Estoy cursando la Escuela de código de PILARES para especializarme como desarrollador JAVA. :coffee:
+</br>
+:hash:Estoy en busca de un trabajo como becario :kite:
+
 
 ## Tecnologías:
 
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png))
+
 
 ## Contacto:
 
